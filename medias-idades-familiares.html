@@ -9,14 +9,18 @@
         pulaLinha();
     }
 
-    var idadeStefany = 21;
-    var idadePedro = 29;
-    var idadeVinicius = 18;
-    var idadeFabiana = 40;
+  var totalFamiliares = parseInt(prompt("Quantas pessoas tem na sua família?"));
+  var numero = 1;
+  var totalIdades = 0;
 
-    var totalIdades = idadeStefany + idadePedro + idadeVinicius + idadeFabiana;
-    var mediaIdades = totalIdades/4;
+  while(numero <= totalFamiliares) {
+      var idade = parseInt(prompt("Informe a idade de cada familiar"));
+      totalIdades = totalIdades + idade;
+      numero++;
+       }
 
-    mostra(mediaIdades);
+       var mediaDasIdades = totalIdades/ totalFamiliares;
+       mostra("A média das idades dos familiares é " + mediaDasIdades);
+       mostra("Fim");
 
 </script>
