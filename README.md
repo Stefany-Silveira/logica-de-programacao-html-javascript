@@ -1,7 +1,7 @@
 # logica-de-programacao-html-javascript
- Exercícios resolvidos pelo curso - Lógica de Programação I: Os primeiros programas Javascript e HTML.
 
+# Exercícios resolvidos pelo curso - Programação Lógica I: Os primeiros programas Javascript e HTML.
 
+Uma breve descrição sobre o que esse projeto faz e para quem ele é
 
-Curso realizado pelo programa ONE - Oracle Next Education, uma parceria da Oracle e Alura.
 
