@@ -1,2 +1,7 @@
 # logica-de-programacao-html-javascript
- Exercícios do curso Alura de Lógica de Programação I: os primeiros programas com JavaScript e HTML.
+ Exercícios resolvidos pelo curso - Lógica de Programação I: Os primeiros programas Javascript e HTML.
+
+
+
+Curso realizado pelo programa ONE - Oracle Next Education, uma parceria da Oracle e Alura.
+
